@@ -1,0 +1,22 @@
+Package: DtracePLN
+Type: Package
+Title: DtracePLN: Sparse precision matrix estimation via lasso
+        penalized D-trace loss in the multivariate Poisson log-normal
+        model
+Version: 0.2.0
+Date: 2021-05-06
+Author: Feiyi Xiao, Junjie Tang
+Maintainer: The package maintainer <junjie.tang@pku.edu.cn>
+Description: DtracePLN is a package for calculating the precision matrix of poission log-normal model using moment method and dtrace loss. We first calculate the covariance matrix by moment method and then calculate the precision matrix by dtrace loss using R package EQUAL.
+Depends: R (>= 3.5.0), MASS, CVXR, EQUAL
+Imports: MASS, CVXR, EQUAL
+Linkingto: MASS, CVXR, EQUAL
+License: GPL
+Encoding: UTF-8
+biocViews: SingleCell, Transcription, Gene Regulatory Network
+        Inference, Software
+LazyData: true
+BugReports: https://github.com//issues
+URL: https://github.com/
+NeedsCompilation: no
+Packaged: 2021-05-06 06:17:16 UTC; 15521
