@@ -3,7 +3,7 @@ Type: Package
 Title: PLNet: Sparse precision matrix estimation via lasso penalized
         D-trace loss in the multivariate Poisson log-normal model
 Version: 0.4.0
-Date: 2021-08-02
+Date: 2021-08-03
 Author: Feiyi Xiao, Junjie Tang
 Maintainer: Junjie Tang <junjie.tang@pku.edu.cn>
 Description: PLNet is a package for calculating the precision matrix of poission log-normal model using moment method and dtrace loss. We first calculate the covariance matrix by moment method and then infer the precision matrix by dtrace loss using R package EQUAL.
