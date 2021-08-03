@@ -15,7 +15,7 @@ Encoding: UTF-8
 biocViews: SingleCell, Transcription, Gene Regulatory Network
         Inference, Software
 LazyData: true
-BugReports: https://github.com//issues
-URL: https://github.com/
+BugReports: https://github.com/XiDsLab/PLNet/issues
+URL: https://github.com/XiDsLab/PLNet
 NeedsCompilation: no
 Packaged: 2021-08-03 05:50:54 UTC; DELL
