@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **PLNet** is available on [Github](https://github.com/git-tjj/PLNet).
 
 ### R Package installation
-- Before installing **PLNet** package, please install **cescwang85-EQUAL-da9cbbb.tar.gz** on [Github](https://github.com/git-tjj/DtracePLN).
+- Before installing **PLNet** package, please install **cescwang85-EQUAL-da9cbbb.tar.gz** on [Github](https://github.com/git-tjj/PLNet).
 - For the development version, use the github install
 ```{r package github, eval = FALSE}
 remotes::install_github("https://github.com/git-tjj/PLNet")
