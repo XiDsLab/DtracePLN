@@ -3,13 +3,13 @@
 > PLNet is a package for calculating the precision matrix of poission log-normal model using moment method and dtrace loss. We first calculate the covariance matrix by moment method and then calculate the precision matrix by dtrace loss using R package EQUAL.
 
 ## Installation
-**PLNet** is available on [Github](https://github.com/git-tjj/PLNet).
+**PLNet** is available on [Github](https://github.com/XiDsLab/PLNet).
 
 ### R Package installation
-- Before installing **PLNet** package, please install **cescwang85-EQUAL-da9cbbb.tar.gz** on [Github](https://github.com/git-tjj/PLNet).
+- Before installing **PLNet** package, please install **cescwang85-EQUAL-da9cbbb.tar.gz** on [Github](https://github.com/XiDsLab/PLNet).
 - For the development version, use the github install
 ```{r package github, eval = FALSE}
-remotes::install_github("https://github.com/git-tjj/PLNet")
+remotes::install_github("https://github.com/XiDsLab/PLNet")
 ```
 
 ## Usage and main functions
